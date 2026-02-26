@@ -6,5 +6,5 @@ publicPgpKey: unknown
 users:
 - githubUsername: Anandreddy125
 vendor:
-  label: hello-world
+  label: anand
   name: Prophaze Inc.
